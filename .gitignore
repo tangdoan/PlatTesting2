@@ -1,6 +1,17 @@
+# Local run
+certs/
+env.sh
+application.yaml
+tomcat/
+
 # Maven
 target/
 
 # Intellij
 .idea
 *.iml
+
+# NPM
+node_modules/
+dist/
+npm-debug.log
